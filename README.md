@@ -2,7 +2,9 @@
 
 This plugin is work for synergy. Maybe also work in hl2dm or css with NPCs in CS:S (extended).
 You should be noted that this plugin was created for Koreans.
-And there is no Config file.
+And there is no config file.
+
+Made By 김태훈(Bearfade).
 
 ## Road Map
 
