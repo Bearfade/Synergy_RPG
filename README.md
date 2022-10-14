@@ -10,7 +10,7 @@ Made By 김태훈(Bearfade).
 
 ### Completed
 - [x] Make the plugin playable.
-- [x] Press N to relaod PlayerData. 
+- [x] Press N to relaod PlayerData. (Provisional)
 
 ### Uncompleted
 
